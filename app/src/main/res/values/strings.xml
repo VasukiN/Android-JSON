@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="City_arrays">
+        <item>Bangalore</item>
+        <item>Shimogga</item>
+        <item>Haveri</item>
+        <item>Hubli</item>
+        <item>Ranebennur</item>
+        <item>Davanager</item>
+        <item>Mangalore</item>
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+    </string-array>
+    <string-array name="State_arrays">
+        <item>Karnataka</item>
+        <item>TamilNadu</item>
+        <item>AndraPradesh</item>
+        <item>Telangana</item>
+        <item>Kerala</item>
+    </string-array>
+    <string-array name="Country_arrays">
+        <item>India</item>
+        <item>Malasia</item>
+        <item>Singapoor</item>
+        <item>Tailand</item>
+        <item>Bankok</item>
+    </string-array>
+</resources>
+
